@@ -1,0 +1,42 @@
+.main
+{
+
+border: 2px solid grey;
+width: 200px;
+margin: 0 auto;
+}
+.in
+{
+width: 96%;
+}
+
+
+.clear:hover
+{
+    background-color: springgreen;
+}
+.clear
+{
+    
+    width: 100%;
+    margin-top: 2px;
+}
+.btn
+{
+    align-items: center;
+}
+.btn1
+{
+    
+    width: 45px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+
+.btn2
+{
+    width: 95px;
+    margin-top: 2px ;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
